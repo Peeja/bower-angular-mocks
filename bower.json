@@ -1,6 +1,6 @@
 {
   "name": "angular-mocks",
-  "version": "1.2.5.hotfix",
+  "version": "1.2.5.2",
   "main": "./angular-mocks.js",
   "dependencies": {
     "angular": "1.2.5"
